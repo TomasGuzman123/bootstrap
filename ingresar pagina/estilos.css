@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@300&display=swap');
+.cet30{
+    margin: 20px;
+}
+.h2{
+    font-family: 'Mohave', sans-serif;
+    color: blueviolet;
+    margin: 20px;
+}
+.imagenes{
+    margin: 0 auto;
+    width: 100px;
+    
+    
+}
+.bloque{
+    background-image: url('IMG/libros2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    box-shadow: 10px 6px 100px rgb(rgb 0, 0, 0);
+}
+.botton{
+    background: rgb(176, 190, 171);
+    width: 40%;
+    border: 3px solid rgb(2, 2, 2);
+    text-align: center;
+}
